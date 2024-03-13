@@ -2,7 +2,7 @@
 I'm currently helping businesses get more reach using websites <br>I'm looking to collaborate with startups to build products<br>
 ## Technical Skills
 I'm currently learning data structures and algrorithms and system design<br>I'm proficient in JavaScript and some of its frameworks: react.js, node.js, next.js
-<br> I'm have experience using AWS as a webhosting solution. 
+<br> I'm have experience using AWS as a webhosting solution. <br> Expert in frontend development. 
 
 
 ## 🌐 Socials:
