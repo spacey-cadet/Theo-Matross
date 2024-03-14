@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm currently helping businesses get more reach using websites <br>I'm looking to collaborate with startups to build products<br>
+I'm currently helping businesses get more reach using websites <br>I'm looking to collaborate with startups to build products and solutions<br>
 ## Technical Skills
-I'm currently learning data structures and algrorithms and system design<br>I'm proficient in JavaScript and some of its frameworks: react.js, node.js, next.js
-<br> I'm have experience using AWS as a webhosting solution. <br> Expert in frontend development. 
+I'm learning data structures and algrorithms and system design<br>I'm proficient in JavaScript and some of its frameworks: react.js, node.js, next.js
+<br> I have experience using AWS as a webhosting solution. <br> I'm an expert in backend development. I love creating scalable,secure and durable systems for the web. 
 
 
 ## 🌐 Socials:
