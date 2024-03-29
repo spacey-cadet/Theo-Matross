@@ -35,7 +35,7 @@ DSA and system design<br>I'm proficient in JavaScript and some of its frameworks
 [![](https://visitcount.itsvg.in/api?id=theo-matross&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Contact Me
-Email : theo.korirchbng@gmail.com
+Email : theo.korirchbng@gmail.com <br>
 Phone: 0708092390
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
