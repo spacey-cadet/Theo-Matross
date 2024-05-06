@@ -1,9 +1,12 @@
 #  About Me:
-I'm currently helping businesses get more reach using websites <br>I'm looking to collaborate with startups to build products and solutions<br>
+I'm currently helping businesses achieve their goals using websites <br>I'm looking to collaborate with startups to build products and solutions<br>
 ## Technical Skills
-DSA and system design<br>I'm proficient in JavaScript and some of its frameworks: react.js, node.js, next.js
-<br> I have experience using AWS as a webhosting solution. <br> I'm an expert in backend development. I love creating scalable,secure and durable systems for the web. 
+I have concrete knowledge on DSA and System Design<br>I'm proficient in JavaScript and framworks for web develpoment: react.js, node.js, next.js
+<br> I have experience using AWS as a webhosting solution. <br> I love creating scalable,secure and durable systems for the web. 
 
+## Concentrations
+Frontend Web development
+System Design
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)][(https://www.instagram.com/_ftkorir/) ]<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Theophilus Korir) <br>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)][(https://twitter.com/theo_korir)]
