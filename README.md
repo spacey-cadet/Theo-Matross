@@ -5,7 +5,7 @@ I have concrete knowledge on DSA and System Design<br>I'm proficient in JavaScri
 <br> I have experience using AWS as a webhosting solution. <br> I love creating scalable,secure and durable systems for the web. 
 
 ## Concentrations
-Frontend Web development
+Frontend Web development <br>
 System Design
 
 ## 🌐 Socials:
