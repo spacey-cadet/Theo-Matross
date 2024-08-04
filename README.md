@@ -1,5 +1,5 @@
 #  About Me:
-I'm currently helping businesses achieve their goals using websites <br>I'm looking to collaborate with startups to build products and solutions<br>
+I'm a web developer who majors in fronted development<br>
 ## Technical Skills
 I have concrete knowledge on DSA and System Design<br>I'm proficient in JavaScript and framworks for web develpoment: react.js, node.js, next.js
 <br> I have experience using AWS as a webhosting solution. <br> I love creating scalable,secure and durable systems for the web. 
