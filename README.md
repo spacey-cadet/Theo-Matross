@@ -1,44 +1,53 @@
-#  About Me:
-I'm a web developer who majors in fronted development<br>
-## Technical Skills
-I have concrete knowledge on DSA and System Design<br>I'm proficient in JavaScript and framworks for web develpoment: react.js, node.js, next.js
-<br> I have experience using AWS as a webhosting solution. <br> I love creating scalable,secure and durable systems for the web. 
+# 👋 Hello, World! I'm Theophilus Korir
 
-## Concentrations
-Frontend Web development <br>
-System Design
+## 🚀 Frontend Maestro | ☁️ Cloud Enthusiast | 📊 Data Whisperer
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)][(https://www.instagram.com/_ftkorir/) ]<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Theophilus Korir) <br>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)][(https://twitter.com/theo_korir)]
+I craft digital experiences that seamlessly blend form and function. With a keen eye for design and a passion for clean, efficient code, I'm on a mission to make the web a more beautiful and user-friendly place, one pixel at a time.
 
-# 💻 Tech Stack:
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+### 🎭 My Three Acts:
+
+1. **Frontend Sorcery**: Weaving intricate UI spells with React, Next.js, and the latest JavaScript enchantments.
+2. **Cloud Conjuring**: Harnessing the power of AWS to summon scalable, secure, and durable web solutions.
+3. **Data Alchemy**: Transforming raw information into golden insights through the art of analytics.
+
+### 🛠️ Toolkit of Wonders:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Redux](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 
+...and many more in my ever-expanding arsenal!
 
+### 🌟 Specialties:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=theo-matross&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- Architecting responsive and intuitive user interfaces
+- Optimizing web performance for lightning-fast experiences
+- Leveraging cloud technologies for robust and scalable applications
+- Extracting meaningful patterns from complex datasets
+
+### 🌐 Find Me in the Digital Realm:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Theophilus-Korir)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theo_korir)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_ftkorir/)
+
+### 📬 Summon Me:
+
+- 📧 Email: theo.korirchbng@gmail.com
+- 📱 Phone: 0708092390
+
 ---
-[![](https://visitcount.itsvg.in/api?id=theo-matross&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Contact Me
-Email : theo.korirchbng@gmail.com <br>
-Phone: 0708092390
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theo-matross&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=theo-matross&icon=0&color=0" alt="Visit Count">
+</p>
+
+<!-- Crafted with ❤️ and a sprinkle of digital stardust -->
